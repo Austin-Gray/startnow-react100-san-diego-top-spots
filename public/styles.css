@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://www.omnihotels.com/-/media/images/hotels/sandtn/destinations/sandtn-omni-san-diego-petco-park.jpg?h=660&la=en&w=1170");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.topspot {
+    background-color: rgba(248, 248, 248, 0.8)
+}
